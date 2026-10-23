@@ -6,6 +6,8 @@ Bu depo, sitenin **vitrinidir**. Siteyi nasıl tasarladığımı ve neler içerd
 
 ![Ana sayfa](ekran-goruntuleri/ana-sayfa-masaustu.png)
 
+<img src="ekran-goruntuleri/ana-sayfa-telefon.png" alt="Telefon görünümü" width="280">
+
 ## Site nedir?
 
 İlkokul, ortaokul ve lise öğrencilerine birebir matematik özel ders ve eğitim koçluğu veren **Mehmet Hamza Şükür** için hazırladığım tek sayfalık tanıtım sitesi. Online (Zoom) ve İstanbul Ümraniye'de yüz yüze ders sunuyor. Ziyaretçiyi doğrudan WhatsApp'tan iletişime geçirmek hedefleniyor.
@@ -13,7 +15,7 @@ Bu depo, sitenin **vitrinidir**. Siteyi nasıl tasarladığımı ve neler içerd
 ## Öne çıkanlar
 
 - **Hızlı:** Telefonda Lighthouse ölçümü (Ekim 2026): Performans 97, Erişilebilirlik 100, En İyi Uygulamalar 100, SEO 100.
-- **Önce telefon:** Çoğu ziyaretçi telefondan geldiği için tasarım küçük ekrandan başlıyor. Altta yapışan "WhatsApp'tan yazın" çubuğu var.
+- **Önce telefon:** Çoğu ziyaretçi telefondan geldiği için tasarım küçük ekrandan başlıyor. Telefonda altta yapışan bir "WhatsApp'tan yazın" çubuğu var.
 - **Telefona indirilebilir (PWA):** Tarayıcıdan uygulama gibi eklenebilir, çevrimdışı da açılır.
 - **Erişilebilir:** Klavye ile gezinme, görünür odak çizgisi, okunur renk kontrastı, hareketi azaltma ayarına saygı.
 - **Güvenli:** İçerik güvenlik politikası (CSP) ve diğer güvenlik başlıkları.
